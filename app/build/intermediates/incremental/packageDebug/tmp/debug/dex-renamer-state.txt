@@ -1,0 +1,4 @@
+#Sun Feb 20 21:29:41 PST 2022
+base.0=G\:\\_NIC - Winter 2022\\114\\dessert-clicker-activity-lifecycle-example\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
